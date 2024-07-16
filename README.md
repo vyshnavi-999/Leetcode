@@ -11,6 +11,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vyshnavi-999/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vyshnavi-999/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/vyshnavi-999/Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -37,11 +38,13 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyshnavi-999/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vyshnavi-999/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/vyshnavi-999/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vyshnavi-999/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyshnavi-999/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vyshnavi-999/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/vyshnavi-999/Leetcode/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
 | ------- |
