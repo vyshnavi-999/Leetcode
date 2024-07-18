@@ -27,6 +27,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vyshnavi-999/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vyshnavi-999/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vyshnavi-999/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/vyshnavi-999/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vyshnavi-999/Leetcode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyshnavi-999/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vyshnavi-999/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vyshnavi-999/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vyshnavi-999/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vyshnavi-999/Leetcode/tree/master/0125-valid-palindrome) |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vyshnavi-999/Leetcode/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vyshnavi-999/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
