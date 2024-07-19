@@ -44,6 +44,7 @@
 | [0136-single-number](https://github.com/vyshnavi-999/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vyshnavi-999/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vyshnavi-999/Leetcode/tree/master/0189-rotate-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/vyshnavi-999/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
