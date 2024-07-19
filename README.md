@@ -44,6 +44,7 @@
 | [0136-single-number](https://github.com/vyshnavi-999/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vyshnavi-999/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vyshnavi-999/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/vyshnavi-999/Leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vyshnavi-999/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@
 | [0088-merge-sorted-array](https://github.com/vyshnavi-999/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vyshnavi-999/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/vyshnavi-999/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/vyshnavi-999/Leetcode/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
 | ------- |
