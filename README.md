@@ -33,6 +33,7 @@
 | [0058-length-of-last-word](https://github.com/vyshnavi-999/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vyshnavi-999/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/vyshnavi-999/Leetcode/tree/master/0392-is-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/vyshnavi-999/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,4 +98,5 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/vyshnavi-999/Leetcode/tree/master/0392-is-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/vyshnavi-999/Leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
