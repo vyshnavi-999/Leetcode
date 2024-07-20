@@ -32,6 +32,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vyshnavi-999/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/vyshnavi-999/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vyshnavi-999/Leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/vyshnavi-999/Leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0125-valid-palindrome](https://github.com/vyshnavi-999/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/vyshnavi-999/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vyshnavi-999/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/vyshnavi-999/Leetcode/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vyshnavi-999/Leetcode/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/vyshnavi-999/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
