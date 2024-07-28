@@ -11,6 +11,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vyshnavi-999/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vyshnavi-999/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/vyshnavi-999/Leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/vyshnavi-999/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vyshnavi-999/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vyshnavi-999/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/vyshnavi-999/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vyshnavi-999/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/vyshnavi-999/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vyshnavi-999/Leetcode/tree/master/0268-missing-number) |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vyshnavi-999/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/vyshnavi-999/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vyshnavi-999/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vyshnavi-999/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/vyshnavi-999/Leetcode/tree/master/0058-length-of-last-word) |
